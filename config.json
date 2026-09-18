@@ -1,0 +1,6 @@
+{
+  "settings": {
+    "sleep_seconds": 3600,
+    "buy_miner": true
+  }
+}
